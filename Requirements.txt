@@ -1,0 +1,16 @@
+# Streamlit app dependencies
+streamlit==1.33.0
+
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+catboost==1.2.3
+joblib==1.4.0
+
+# Visualization (optional, if you use plots)
+matplotlib==3.8.4
+seaborn==0.13.2
